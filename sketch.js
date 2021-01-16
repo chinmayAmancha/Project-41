@@ -8,7 +8,7 @@ function preload(){
     thunderimg1 = loadImage("images/1.png");
     thunderimg2 = loadImage("images/2.png");
     thunderimg3 = loadImage("images/3.png");
-    thunderimg4 = loadimage("images/4.png");
+    thunderimg4 = loadImage("images/4.png");
 }
 
 function setup(){
